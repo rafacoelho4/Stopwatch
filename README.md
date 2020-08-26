@@ -1,3 +1,4 @@
 # Stopwatch
 > por Rafael Coelho Monte Alto
-Stopwatch app in Flutter.
+
+Stopwatch app developed in Flutter. :heart
