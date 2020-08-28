@@ -14,7 +14,7 @@ class _MainState extends State<Main> {
   String time = '00:00';
   Timer timing;
   DateTime data, original;
-  Duration sec = Duration(seconds: 4000);
+  Duration sec = Duration(seconds: 0);
 
   void _startClock(DateTime received) {
     setState(() {
